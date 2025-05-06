@@ -1,3 +1,2 @@
-# cse111k23hp
+# python project 
 
-welcome to lovely professional university
